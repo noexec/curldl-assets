@@ -10,3 +10,7 @@ Christoph Gohlke are used instead, as downloaded from his
 
 PycURL is dual licensed under the LGPL and an MIT/X derivative
 license, so keeping these builds in the repo is fine.
+
+## License
+
+This project is released under the [GNU LGPL License Version 3](LICENSE.md) or any later version.
