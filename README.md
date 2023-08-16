@@ -6,7 +6,9 @@ are required.
 Since [PycURL](https://pycurl.io/) has no official win32 builds
 at the time of writing this document, unofficial binaries by
 Christoph Gohlke are used instead, as downloaded from his
-[website](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycurl).
+[website](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycurl)
+(which has since [moved](https://github.com/cgohlke/win_arm64-wheels)
+and lost the 32-bit architecture builds).
 
 PycURL is dual licensed under the LGPL and an MIT/X derivative
 license, so keeping these builds in the repo is fine.
