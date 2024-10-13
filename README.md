@@ -9,7 +9,7 @@ Christoph Gohlke are used instead, as downloaded from his
 [website](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycurl).
 
 The downloads have since [moved](https://github.com/cgohlke/win_arm64-wheels)
-and lost both PycURL builds and 32-bit architecture builds in general.
+and the build were restricted to ARM64 architecture.
 For this reason, only Python 3.8–3.11 Windows builds are provided here.
 
 PycURL is dual licensed under the LGPL and an MIT/X derivative
