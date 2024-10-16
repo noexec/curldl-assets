@@ -1,5 +1,9 @@
 # PycURL Builds for Windows Platform
 
+__NOTE:__ PyPI now has native Windows builds for
+[PycURL 7.45.3](https://pypi.org/project/pycurl/7.45.3/#files),
+so this module is not needed anymore.
+
 To facilitate testing __curldl__ on Windows, win32 builds of PycURL
 are required.
 
